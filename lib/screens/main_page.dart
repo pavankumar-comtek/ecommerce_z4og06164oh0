@@ -12,10 +12,10 @@ class _MainPageState extends State<MainPage> {
 
   List<ProductDetails> productDetails = [
 
-    ProductDetails(productName: "Evening Dress", 
-    productPrice: 12.00, 
-    productImage: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2Fevening-dresses--439804719875941032%2F&psig=AOvVaw2OACgayVvq3wnAlYZoxHzm&ust=1716477575073000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIjPgsLHoYYDFQAAAAAdAAAAABAE",
-    productColor: productColor, productSize: productSize, productQuantity: productQuantity, productCurrency: productCurrency)
+    // ProductDetails(productName: "Evening Dress", 
+    // productPrice: 12.00, 
+    // productImage: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2Fevening-dresses--439804719875941032%2F&psig=AOvVaw2OACgayVvq3wnAlYZoxHzm&ust=1716477575073000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIjPgsLHoYYDFQAAAAAdAAAAABAE",
+    // productColor: productColor, productSize: productSize, productQuantity: productQuantity, productCurrency: productCurrency)
   ];
   @override
   Widget build(BuildContext context) {
